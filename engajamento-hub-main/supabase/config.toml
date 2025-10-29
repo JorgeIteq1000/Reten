@@ -1,0 +1,4 @@
+project_id = "sdgqhvehujkoqewlogpl"
+
+[functions.fetch-students]
+verify_jwt = false
